@@ -1,4 +1,4 @@
-# Chuleta examen React 2026 — Isaías FL
+# Resumenes examen React 2026 — Alvaro MP
 
 Resumen práctico de todo lo que el profe pide. Está partido en ficheros para que en el examen abras solo lo que necesites.
 
