@@ -279,16 +279,6 @@ zip -r examen-juan-gp.zip examen-juan-gp/ -x "*/node_modules/*"
 
 O directamente borra `node_modules/` antes de comprimir.
 
-## 20. Renombrar mal la carpeta antes de entregar
-
-El LEEME del Examen 1 dice **literalmente**:
-
-```
-examen-tunombre-inicialesapellidos
-```
-
-Ejemplo correcto: `examen-juan-gp`. **No** `Examen-Juan-GP` ni `examen-juan-garcia-perez`.
-
 ---
 
 ## Checklist final antes de subir el ZIP
